@@ -1,6 +1,16 @@
-**<u>A survey report on hand gesture recognition technology</u>**
+# A survey report on hand gesture recognition technology
 
-**Abstract**
+Article completion date: 21 Mar 2023
+
+# Index
+
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [Survey details](#survey-details)
+- [Conclusion and future work](#conclusion-and-future-work)
+- [References](#references)
+
+# Abstract
 
 This survey report discusses two main approaches of hand gesture
 recognition, sensor-based and vision-based approaches for their early
@@ -9,7 +19,7 @@ analyze the advantages and disadvantages of both approaches as well as
 their related methods. Some suggestion for future work is also mentioned
 at the end of the report.
 
-**Introduction**
+# Introduction
 
 Hand gesture recognition is an important topic in human-computer
 interaction (HCI). It allows the human to commend the computer naturally
@@ -24,7 +34,7 @@ using the sensor-based or the vision-based approach, their advantages
 and disadvantages, as well as their possible works for future
 development.
 
-**Survey details**
+# Survey details
 
 In the current state, there are mainly two approaches and they are still
 the trend of recent research, one of which is using the sensor-based
@@ -223,7 +233,7 @@ to less applications</td>
 
 <u>Table a, overall comparison of different approaches and methods</u>
 
-**Conclusion and future work**
+# Conclusion and future work
 
 Generally, in today's state-of-the-art methods, hand gesture recognition
 has high accuracy and is already in the practical state. Both approaches
@@ -246,7 +256,7 @@ camera instead of the normal camera for visual input. Lastly, future
 research can also focus on to further increasing gesture recognition
 accuracy on all approaches.
 
-**Reference**
+# References
 
 \[1\] A. Chaudhary, J. L. Raheja, K. Das, and S. Raheja, “Intelligent
 Approaches to interact with Machines using Hand Gesture Recognition in
